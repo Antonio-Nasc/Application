@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anime.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da63c71cfe5ffd4572d2cf4fa1c1d0ede69a4d3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e2e526572c699fcba97ac14840ac57d799112e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anime.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anime.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj": {}
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj": {
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj",
         "projectName": "Anime.Domain",
-        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj",
-        "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj",
+        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -87,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
