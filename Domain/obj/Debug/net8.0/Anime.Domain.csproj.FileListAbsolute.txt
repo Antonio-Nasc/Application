@@ -1,0 +1,15 @@
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\bin\Debug\net8.0\Anime.Domain.deps.json
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\bin\Debug\net8.0\Anime.Domain.runtimeconfig.json
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\bin\Debug\net8.0\Anime.Domain.dll
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\bin\Debug\net8.0\Anime.Domain.pdb
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.csproj.AssemblyReference.cache
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.AssemblyInfoInputs.cache
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.AssemblyInfo.cs
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.csproj.CoreCompileInputs.cache
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.sourcelink.json
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.dll
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\refint\Anime.Domain.dll
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.pdb
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\Anime.Domain.genruntimeconfig.cache
+C:\Users\josee\OneDrive\Documentos\Project\Application\Domain\obj\Debug\net8.0\ref\Anime.Domain.dll
