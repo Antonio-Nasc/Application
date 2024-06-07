@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Data\\Anime.Data.csproj": {}
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Data\\Anime.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\Anime.Application.csproj": {
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\Anime.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\Anime.Application.csproj",
+        "projectUniqueName": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\Anime.Application.csproj",
         "projectName": "Anime.Application",
-        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\Anime.Application.csproj",
-        "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\obj\\",
+        "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\Anime.Application.csproj",
+        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj": {
-                "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj"
+              "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj": {
+                "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -91,21 +96,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Data\\Anime.Data.csproj": {
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Data\\Anime.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Data\\Anime.Data.csproj",
+        "projectUniqueName": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Data\\Anime.Data.csproj",
         "projectName": "Anime.Data",
-        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Data\\Anime.Data.csproj",
-        "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Data\\obj\\",
+        "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Data\\Anime.Data.csproj",
+        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,8 +124,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\Anime.Application.csproj": {
-                "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Anime.Application\\Anime.Application.csproj"
+              "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\Anime.Application.csproj": {
+                "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Anime.Application\\Anime.Application.csproj"
               }
             }
           }
@@ -129,6 +134,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -186,21 +196,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj": {
+    "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj",
         "projectName": "Anime.Domain",
-        "projectPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\Anime.Domain.csproj",
-        "packagesPath": "C:\\Users\\josee\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josee\\OneDrive\\Documentos\\Project\\Application\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\Anime.Domain.csproj",
+        "packagesPath": "C:\\Users\\jose\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose\\Desktop\\Repositorios\\Application\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\josee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -220,6 +230,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -273,7 +288,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
